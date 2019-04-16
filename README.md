@@ -1,6 +1,8 @@
 # ScrollBarController
 仿新闻客户端
 bar 有四种样式，自定义的可以自己实现
+
+
 enum BarItemBorderType {
     case defualt
     case barItem
